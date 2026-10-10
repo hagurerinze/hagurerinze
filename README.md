@@ -26,6 +26,9 @@ I'm an S1 student at STMIK TIME, now in semester 3. 🎓
 - **Waydroid:** Weston, single boot
 - **Wine:** 10.0.0 (Debian repack). I used the staging version before.
 
+## 🖥️ My desktop
+![My XFCE desktop](https://raw.githubusercontent.com/hagurerinze/low-spec-laptop/main/desktop/screenshots/debian-xfce-conky-monitoring.png)
+
 ## 🗣️ Languages
 - 🇮🇩 **Indonesian:** my native language.
 - 🇬🇧 **English:** I use it for daily texting, but I can't say things very well yet.
