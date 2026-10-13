@@ -8,6 +8,7 @@ I'm an S1 student at STMIK TIME, now in semester 3. 🎓
 - 🌱 I'm learning how to make my future life easier.
 - 🕊️ My rule is simple: **be happy and be free**.
 - 😄 Pronouns: he/him
+- Math is not my thing, and I really do not like it. But I keep fighting matrices anyway. [About math](about-math.md)
 
 ## 🎓 Education
 - STMIK TIME, S1 Informatics Engineering (semester 3).
