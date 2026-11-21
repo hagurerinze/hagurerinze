@@ -28,7 +28,7 @@ I'm an S1 student at STMIK TIME, now in semester 3. 🎓
 - **Wine:** 10.0.0 (Debian repack). I used the staging version before.
 
 ## 🖥️ My desktop
-![My XFCE desktop](https://raw.githubusercontent.com/hagurerinze/low-spec-laptop/main/desktop/screenshots/debian-xfce-conky-monitoring.png)
+![My Fav desktop](https://github.com/hagurerinze/low-spec-laptop/blob/8a77d1dded8670f0c5a7baf30d896ebaa12a7a88/desktop/screenshots/bspwm-latest-screenshot.png)
 
 ## 🗣️ Languages
 - 🇮🇩 **Indonesian:** my native language.
