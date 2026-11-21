@@ -22,8 +22,8 @@ I'm an S1 student at STMIK TIME, now in semester 3. 🎓
 - 🤝 Want to learn together? Feel free to open an issue in my repos.
 
 ## 🛠️ What I use
-- **OS:** Debian 13.7, Windows 10 (Ghost Spectre), FreeBSD 15.1, Waydroid (Vanilla)
-- **Desktop / WM:** Xfce, Bspwm
+- **OS:** Debian 13.7, Windows 10 (Ghost Spectre), FreeBSD 15.1, Waydroid (GApps)
+- **Desktop / WM:** Xfce, Bspwm, Openbox
 - **Waydroid:** Weston, single boot
 - **Wine:** 10.0.0 (Debian repack). I used the staging version before.
 
@@ -42,7 +42,7 @@ I'm an S1 student at STMIK TIME, now in semester 3. 🎓
 ## 🎧 Music
 - I love Japanese songs the most, but I enjoy songs from other countries too: Korean, Mandarin, and English.
 - I also like songs without vocals, like EDM, BGM, and OST.
-- 🕺 I play Pump It Up (Intermediate 1).
+- 🕺 I play Pump It Up (Intermediate 9).
 
 ## ⚡ Fun fact
 All my laptops are low-spec, and it's on purpose. I want to make less e-waste, starting from myself. ♻️
