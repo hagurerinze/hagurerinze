@@ -49,6 +49,7 @@ All my laptops are low-spec, and it's on purpose. I want to make less e-waste, s
 
 ## 📁 My projects
 - [low-spec-laptop](https://github.com/hagurerinze/low-spec-laptop) - my main project. Notes and configs for low-spec laptops.
+- [wabot](https://github.com/hagurerinze/wabot) - my favorite project for now. WhatsApp chatbot with long-terms-memory for low-spec laptops.
 - My other repos are about different topics. Feel free to look around!
 
 ## 🎯 Why I made this
